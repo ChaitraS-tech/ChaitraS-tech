@@ -1,4 +1,4 @@
-Hi, I'm Chaitra Soodi
+<h1>Hi, I'm Chaitra Soodi</h1>h1>
 
 🎓 MCA Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 💻 Full Stack Developer
 
