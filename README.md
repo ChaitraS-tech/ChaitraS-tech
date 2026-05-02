@@ -11,12 +11,15 @@ I am passionate about building data-driven dashboards and AI-based systems to so
 <h3>Skills & Tools</h3>
 
 Data Analytics
+
 Power BI • Excel • SQL • Data Visualization
 
 Machine Learning
+
 Python • OpenCV • TensorFlow
 
 Development
+
 Django • React • Full Stack Development
 
 ---
