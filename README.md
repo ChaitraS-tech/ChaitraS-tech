@@ -1,14 +1,14 @@
-<h1>Hi, I'm Chaitra Soodi</h1>h1>
+<h1>Hi, I'm Chaitra Soodi</h1>
 
 🎓 MCA Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 💻 Full Stack Developer
 
 ---
-About Me
+<h3>About Me</h3>
 
 I am passionate about building data-driven dashboards and AI-based systems to solve real-world problems. I enjoy working with data, extracting meaningful insights, and developing intelligent, user-friendly applications. I’m always eager to learn new technologies and improve my problem-solving skills.
 
 ---
-Skills & Tools
+<h3>Skills & Tools</h3>
 
 Data Analytics
 Power BI • Excel • SQL • Data Visualization
@@ -20,7 +20,7 @@ Development
 Django • React • Full Stack Development
 
 ---
-Connect with Me
+<h3>Connect with Me</h3>
 
  LinkedIn: www.linkedin.com/in/chaitra-soodi-841b79336
  
