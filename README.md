@@ -20,4 +20,5 @@ Django • React • Full Stack Development
 Connect with Me
 
  LinkedIn: www.linkedin.com/in/chaitra-soodi-841b79336
+ 
  GitHub: https://github.com/ChaitraS-tech
